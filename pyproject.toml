@@ -28,6 +28,7 @@ dependencies = [
     "ghapi",
     "GitPython",
     "modal",
+    "pip>=25.2",
     "pre-commit",
     "python-dotenv",
     "requests",
